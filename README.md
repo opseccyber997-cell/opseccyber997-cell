@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**opseccyber997-cell/opseccyber997-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando cibersegurança e programação.
 
-Here are some ideas to get you started:
+## O que estou estudando agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🐧 Linux e redes
+- ⚙️ C e Assembly (explorando no NovaCoreOS)
+
+## Meus projetos
+
+- **[Estudos-em-Cyber](https://github.com/opseccyber997-cell/Estudos-em-Cyber)**: minhas anotações e exercícios de estudo
+- **[NovaCoreOS](https://github.com/opseccyber997-cell/NovaCoreOS)**: um mini sistema operacional educacional em C e Assembly
